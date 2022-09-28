@@ -24,7 +24,7 @@ struct employee
 
 int main()
 {
-
+    printf("Hello world");
     int choice;
     while (choice != 6)
     {
